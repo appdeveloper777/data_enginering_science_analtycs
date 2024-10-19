@@ -1,0 +1,1 @@
+C:\Users\Rootstack\Documents\FERNANDO\ INGUNZA\ FILES\performance\ comparison\target\release\prueba_performance.exe: C:\Users\Rootstack\Documents\FERNANDO\ INGUNZA\ FILES\performance\ comparison\src\main.rs
